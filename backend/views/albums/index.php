@@ -11,7 +11,7 @@ $this->title = 'Albums';
 $this->params['breadcrumbs'][] = $this->title;
 ?>
 <div class="albums-index">
-
+    <h1>Git Demo</h1>
     <h1><?= Html::encode($this->title) ?></h1>
 
     <p>
